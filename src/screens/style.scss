@@ -1,0 +1,5 @@
+.container {
+    background: linear-gradient(180deg, rgba(72, 77, 99, 0.21) 0%, rgba(30, 32, 41, 0.495833) 39.58%, rgba(0, 0, 0, 0.7) 100%);
+    backdrop-filter: blur(1.5px);
+/* Note: backdrop-filter has minimal browser support */
+}

@@ -1,0 +1,17 @@
+$primary: #979797;
+
+$dark0: #000;
+$light0: #fff;
+
+$normal: 15;
+
+// $fontRegular: "MontserratRegular";
+// $fontLight: "MontserratLight";
+// $fontSemiBold: "MontserratSemiBold";
+// $fontBold: "MontserratBold";
+
+@mixin headingText() {
+    font-family: 'Open sans';
+    font-size: $normal;
+    color: $dark0;
+}
